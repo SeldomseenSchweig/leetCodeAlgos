@@ -1,22 +1,22 @@
-hayduke415
-Jul 03, 2023 12:10
-Details
-Solution
-TypeScript
-Runtime
-170 ms
-Beats
-9.61%
-Memory
-57 MB
-Beats
-7.69%
-Click the distribution chart to view more details
-Notes
-Write your notes here
-Related Tags
-Select tags
-0/5
+// hayduke415
+// Jul 03, 2023 12:10
+// Details
+// Solution
+// TypeScript
+// Runtime
+// 170 ms
+// Beats
+// 9.61%
+// Memory
+// 57 MB
+// Beats
+// 7.69%
+// Click the distribution chart to view more details
+// Notes
+// Write your notes here
+// Related Tags
+// Select tags
+// 0/5
 function lemonadeChange(bills: number[]): boolean {
 
     let fives = [];
